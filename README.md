@@ -1,3 +1,8 @@
+### Creation du projet version 15 de Angular ###
+
+```
+npx @angular/cli@15 new Angular15Project
+```
 ### ng container ###
 One workaround would be to separate the bindings as below:
 
