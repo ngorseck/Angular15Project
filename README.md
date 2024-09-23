@@ -45,8 +45,11 @@ Et pour eviter le div qui va modifier le DOM
 ```
 
 ### ngb ###
+
 https://ng-bootstrap.github.io/#/home
+
 ng add @ng-bootstrap/ng-bootstrap
+
 https://ng-bootstrap.github.io/#/components/nav/examples
 
 
